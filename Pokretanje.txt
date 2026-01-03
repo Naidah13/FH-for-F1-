@@ -1,8 +1,0 @@
-Unutar foldera aplikacije otvoriti terminal i pokrenuti instalaciju:
-pip install streamlit fastf1 pandas numpy plotly
-
-Pokrenuti aplikaciju sa:
-streamlit run f1simulation.py
-
-ili sa:
-python -m streamlit run f1simulation.py
